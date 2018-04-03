@@ -1,1 +1,5 @@
-.idea/*
+.idea
+ModuleA/.idea
+ModuleB/.idea
+ModuleC/.idea
+ModuleD/.idea
