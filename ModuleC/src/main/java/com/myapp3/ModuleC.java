@@ -1,8 +1,10 @@
+package main.java.com.myapp3;
+
 /**
  * Created by Aleksey on 01.04.2018.
  */
-public class Main {
+public class ModuleC {
     public static void main (String args[]){
-        System.out.println("Module A");
+        System.out.println("Module C");
     }
 }

@@ -1,5 +1,7 @@
+package main.java.com.myapp2;
+
 /**
- * Created by Aleksey on 01.04.2018.
+ * Created by Aleksey on 03.04.2018.
  */
 public class ModuleB {
     public static void main (String args[]){
