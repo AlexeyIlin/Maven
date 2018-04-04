@@ -3,7 +3,7 @@
       <modelVersion>4.0.0</modelVersion>
      
       <groupId>com.alexey.app</groupId>
-      <artifactId>my-app</artifactId>
+      <artifactId>my-appA</artifactId>
       <version>1.0-SNAPSHOT</version>
       <packaging>jar</packaging>
      
@@ -14,7 +14,7 @@
       <dependencies>
         <dependency>
          	<groupId>com.alexey.app</groupId>
-		<artifactId>MavenProject</artifactId>
+		<artifactId>my-appB</artifactId>
 		<version>1.0-SNAPSHOT</version>
         </dependency>
       </dependencies>
