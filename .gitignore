@@ -1,5 +1,6 @@
 .idea
-ModuleA/.idea
-ModuleB/.idea
-ModuleC/.idea
-ModuleD/.idea
+TestingMaven/ModuleA/.idea
+TestingMaven/ModuleB/.idea
+TestingMaven/ModuleC/.idea
+TestingMaven/ModuleD/.idea
+firstApp/
